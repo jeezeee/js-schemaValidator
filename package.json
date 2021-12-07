@@ -1,0 +1,15 @@
+{
+    "name": "ShemaValidator",
+    "version": "1.0.0",
+    "description": "Schema Validator for Software Bastards",
+    "main": "validator.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^27.4.3"
+    }
+}
